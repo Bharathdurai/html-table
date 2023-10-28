@@ -1,0 +1,43 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>HTML Table</title>
+<style>
+table,th,td{
+ border:1px solid black;
+}
+</style>
+</head>
+<body>
+<h2>HTML Table:</h2>
+<table style="width:1008">
+ <tr>
+  <th style="width:58">No.</th>
+  <th>FULL NAME</th>
+  <th>JOB TITLE</th>
+  <th>SALARY</th>
+ </tr>
+ <tr>
+  <td>1.</td>
+  <td>Keerthana.R</td>
+  <td>web developer</td>
+  <td>44000</td>
+  </tr>
+ <tr>
+  <td>2.</td>
+  <td>babu.W</td>
+  <td>Security</td>
+  <td>12000</td>
+  </tr>
+ <tr>
+  <td>3.</td>
+  <td>faris.A</td>
+  <td>Account manager</td>
+  <td>50000</td>
+  </tr>
+ <tr>
+  <td>4.</td>
+  <td>sanjay.P</td>
+  <td>project manager</td>
+  <td>75000</td>
+  </tr>
